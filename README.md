@@ -33,6 +33,10 @@
   <img align="center" alt="Ane-Googlecloud" height="30" width="40" src="https://img.stackshare.io/service/4240/1a61e4pu_400x400.jpg">
   <img align="center" alt="Ane-Pycharm" height="30" width="40" src="https://img.stackshare.io/service/1644/logo.png">
   <img align="center" alt="Ane-GoogleAnalytics" height="30" width="40" src="https://img.stackshare.io/service/64/cU74ahCn_400x400.jpg">
+  <img align="center" alt="Ane-PowerBi" height="30" width="40" src="https://www.tekenable.ie/wp-content/uploads/2019/09/PowerBI-Icon-Transparent.png">
+  <img align="center" alt="Ane-PowerAutomate" height="30" width="40" src="https://shop.anaptis.com/wp-content/uploads/2018/08/microsoft-power-automate.png">
+  <img align="center" alt="Ane-PowerApp" height="30" width="40" src="https://www.it.miami.edu/_assets/images/PowerApps_256.png">
+  <img align="center" alt="Ane-PowerAgents" height="30" width="40" src="https://th.bing.com/th/id/OIP.gYR-nAm9FvGKmSQyaqfu_AAAAA?pid=ImgDet&rs=1">
    </a>
 </p>
 	
