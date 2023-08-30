@@ -1,13 +1,14 @@
+<div align="rigth">
 ## Janiel Maia
-
-		"- ⚡ Biografia:":                        "Aberto a conhecer novos desafios analíticos e estou sempre em busca de soluções inovadoras para impulsionar o sucesso dos projetos",
-		"- 🔭 Atualmente estou trabalhando":      "Analista de Dados Sênior",
-		"- 🌱 Atualmente estou aprendendo":       "Machine Learning, R",
-		"- 👯 I’m looking to collaborate on":     "Projetos relacionados a Python, SQL, Power BI, ETL",
-		"- 🤔 Estou procurando colaborar em":     "Projetos contendo Business Intelligence com a ferramenta Power BI ou Report Builder",
-		"- 💬 Pergunte-me sobre":                 "Power BI, SQL, Python, PHP, MYSQL, Postgresql, Pacote Microsoft",
-		"- 📫 Como chegar até mim:":              "https://github.com/janielmaia",
-
+<ul dir="auto">
+<li>⚡ Biografia:				<i>Aberto a conhecer novos desafios analíticos e estou sempre em busca de soluções inovadoras para impulsionar o sucesso dos projetos.</li></i>
+<li>🔭 Atualmente estou trabalhando:		<i>Analista de Dados Sênior</li></i>
+<li>🌱 Atualmente estou aprendendo:		<i>Machine Learning, R</li></i>
+<li>👯 I’m looking to collaborate on:		<i>Projetos relacionados a Python, SQL, Power BI, ETL</li></i>
+<li>🤔 Estou procurando colaborar em:		<i>Projetos contendo Business Intelligence com a ferramenta Power BI ou Report Builder</li></i>
+<li>💬 Pergunte-me sobre:			<i>Power BI, SQL, Python, PHP, MYSQL, Postgresql, Pacote Microsoft</li></i>
+<li>📫 Como chegar até mim:			<i>https://github.com/janielmaia</li></i>
+</ul>
 <div align="center">
   <a href="https://dev.to/janielmaia">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Janielmaia&show_icons=true&theme=gotham&include_all_commits=true&count_private=true">
