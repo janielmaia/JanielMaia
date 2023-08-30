@@ -19,13 +19,13 @@ func main() {
 
 func GetBio() Bio {
 	return Bio{
-		"- ⚡ Quick bio:":                    "A kind of metalHead-synthWave-cyberPunk-melomaniac-gearAddict-amateurMusician-traveler-foodLover-gamer-coder-programmer-catLover-sportsAficionado-gymRat hybrid",
-		"- 🔭 I’m currently working on":      "Mercado Libre as a Senior Software Engineer",
-		"- 🌱 I’m currently learning":        "Golang, RabbitMQ, Terraform, K8s, DevOps technologies",
-		"- 👯 I’m looking to collaborate on": "Python, Golang and Dev/DevOps related projects",
-		"- 🤔 I’m looking for help with":     "Anything related to what I am currently learning",
-		"- 💬 Ask me about":                  "Python, GO, PHP, Laravel, SQL, Software Design & Architecture, Web-Dev",
-		"- 📫 How to reach me:":              "https://github.com/AnhellO#you-can-reach-me-at-alien",
+		"- ⚡ Biografia:":                        "Aberto a conhecer novos desafios analíticos e estou sempre em busca de soluções inovadoras para impulsionar o sucesso dos projetos",
+		"- 🔭 Atualmente estou trabalhando":      "Analista de Dados Sênior",
+		"- 🌱 Atualmente estou aprendendo":       "Machine Learning, R",
+		"- 👯 I’m looking to collaborate on":     "Projetos relacionados a Python, SQL, Power BI, ETL",
+		"- 🤔 Estou procurando colaborar em":     "Projetos contendo Business Intelligence com a ferramenta Power BI ou Report Builder",
+		"- 💬 Pergunte-me sobre":                 "Power BI, SQL, Python, PHP, MYSQL, Postgresql, Pacote Microsoft",
+		"- 📫 Como chegar até mim:":              "https://github.com/janielmaia",
 	}
 }
 ```
