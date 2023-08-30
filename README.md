@@ -4,7 +4,7 @@
 <li>⚡ Biografia:				<i>Aberto a novos desafios analíticos e sempre em busca de soluções inovadoras para impulsionar o sucesso dos projetos.</li></i>
 <li>🔭 Atualmente estou trabalhando:		<i>Analista de Dados Sênior</li></i>
 <li>🌱 Atualmente estou aprendendo:		<i>Machine Learning, R</li></i>
-<li>👯 I’m looking to collaborate on:		<i>Projetos relacionados a Python, SQL, Power BI, ETL</li></i>
+<li>👯 Estou procurando colaborar em:		<i>Projetos relacionados a Python, SQL, Power BI, ETL</li></i>
 <li>🤔 Estou procurando colaborar em:		<i>Projetos contendo Business Intelligence com a ferramenta Power BI ou Report Builder</li></i>
 <li>💬 Pergunte-me sobre:			<i>Power BI, SQL, Python, PHP, MYSQL, Postgresql, Pacote Microsoft</li></i>
 <li>📫 Como chegar até mim:			<i>https://github.com/janielmaia</li></i>
