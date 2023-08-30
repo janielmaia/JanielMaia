@@ -10,9 +10,17 @@
 
 <div align="center">
   <a href="https://dev.to/janielmaia">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JanielMaia&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JanielMaia&layout=compact&langs_count=7&theme=gotham"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Janielmaia&show_icons=true&theme=gotham&include_all_commits=true&count_private=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Janielmaia&layout=compact&langs_count=7&theme=gotham"/>
 </div>
+	  
+<h2 align="center">Minhas ferramentas :man_technologist:</h2>
+
+<p align="center">Ferramentas que uso no dia a dia, ou que usei ou trabalhei (muito ou pouco) no passado</p>
+<p align="center">
+  <a href="https://stackshare.io/janielmaia">
+    <img src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat" alt="Janiel :: StackShare" />
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Ane-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Ane-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -25,7 +33,8 @@
   <img align="center" alt="Ane-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/react/react-original.svg">
    <img align="center" alt="Ane-NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/nodejs/nodejs-original.svg">
    <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://sm.ign.com/ign_br/tv/o/one-piece-/one-piece-2_1xby.jpg">
- 
+   </a>
+</p>
   ##
  
 <div> 
