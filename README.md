@@ -1,6 +1,6 @@
 # Janiel Maia
 
-<h2 align="center">About me</h2>
+<h2 align="center">Sobre Mim</h2>
 
 ```golang
 package main
@@ -30,7 +30,7 @@ func GetBio() Bio {
 }
 ```
 
-<h2 align="center">You can reach me at :alien:</h2>
+<h2 align="center">Meus contatos:alien:</h2>
 
 <p align="center">
   <a href="https://dev.to/anhello">
@@ -70,7 +70,7 @@ func GetBio() Bio {
   </a>
 </p>
 
-<h2 align="center">My stack :man_technologist:</h2>
+<h2 align="center">Meus contatos :man_technologist:</h2>
 
 <p align="center">Tools that I use on a daily basis, or that I've used or worked (either much or a bit) with on the past</p>
 <p align="center">
