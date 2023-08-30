@@ -1,7 +1,7 @@
 <div align="rigth">
 ## Janiel Maia
 <ul dir="auto">
-<li>⚡ Biografia:				<i>Aberto a conhecer novos desafios analíticos e estou sempre em busca de soluções inovadoras para impulsionar o sucesso dos projetos.</li></i>
+<li>⚡ Biografia:				<i>Aberto a conhecer novos desafios analíticos e sempre em busca de soluções inovadoras para impulsionar o sucesso dos projetos.</li></i>
 <li>🔭 Atualmente estou trabalhando:		<i>Analista de Dados Sênior</li></i>
 <li>🌱 Atualmente estou aprendendo:		<i>Machine Learning, R</li></i>
 <li>👯 I’m looking to collaborate on:		<i>Projetos relacionados a Python, SQL, Power BI, ETL</li></i>
