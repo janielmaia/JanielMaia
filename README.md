@@ -1,5 +1,5 @@
 <div align="rigth">
-## Janiel Maia
+<h3>Janiel Maia</h3>
 <ul dir="auto">
 <li>⚡ Biografia:				<i>Aberto a conhecer novos desafios analíticos e sempre em busca de soluções inovadoras para impulsionar o sucesso dos projetos.</li></i>
 <li>🔭 Atualmente estou trabalhando:		<i>Analista de Dados Sênior</li></i>
