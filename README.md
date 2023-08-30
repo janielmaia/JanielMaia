@@ -40,7 +40,7 @@
    </a>
 </p>
 	
-<h4 align="center">Contagem de Visitantes :eyes:</h4>
+<h2 align="center">Contagem de Visitantes :eyes:</h2>
 
 <p align="center"><img src="https://profile-counter.glitch.me/{janielmaia}/count.svg" alt="JanielMaia :: Visitor's Count" /></p>
 	
