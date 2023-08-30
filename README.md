@@ -50,8 +50,8 @@ func GetBio() Bio {
 
 <p align="center">Ferramentas que uso no dia a dia, ou que usei ou trabalhei (muito ou pouco) no passado</p>
 <p align="center">
-  <a href="https://stackshare.io/anhello/my-personal-stack">
-    <img src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat" alt="AnhellO :: StackShare" />
+  <a href="https://stackshare.io/janielmaia">
+    <img src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat" alt="Janiel :: StackShare" />
   </a>
 </p>
 
@@ -59,7 +59,7 @@ func GetBio() Bio {
 
 <h4 align="center">Contagem de Visitantes :eyes:</h4>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{AnhellO}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{janielmaia}/count.svg" alt="JanielMaia :: Visitor's Count" /></p>
 
 <h4 align="center">Principais Linguagens :tongue:</h4>
 
